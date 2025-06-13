@@ -25,15 +25,6 @@ Simple and minimalist Web3 boilerplate to boost your Dapp development. Don't was
 
 Try it yourself: [https://web3-boilerplate.netlify.app/](https://web3-boilerplate.netlify.app/)
 
-## Built With
-
-- [![React][react.js]][react-url]
-- [![typescript]][typescript-url]
-- [![AntDesign]][antdesign-url]
-- [![web3react]][web3react-url]
-- [![prettier]][prettier-url]
-- [![ESLint]][eslint-url]
-
 ## Installation
 
 ### Make sure you have the following ready:
@@ -46,7 +37,7 @@ Try it yourself: [https://web3-boilerplate.netlify.app/](https://web3-boilerplat
 ### Once your config is ready, create a new repo, open your favorite code editor, and clone the repo with the following cmd:
 
 ```bash
-git clone https://github.com/Pedrojok01/Web3-Boilerplate.git .
+git clone https://github.com/devihor25/Web3-Dapp-template.git .
 ```
 
 ### Install all package dependencies by running:
