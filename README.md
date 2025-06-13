@@ -1,5 +1,6 @@
 <div align="center">
 <h1><strong> Web3 Dapp Template </strong></h1>
+</div>
 
 ## Table of Contents
 
