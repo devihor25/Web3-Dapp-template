@@ -1,42 +1,5 @@
 <div align="center">
-<h1><strong> Web3 Boilerplate </strong></h1>
-
-[![Stargazers](https://img.shields.io/github/stars/Pedrojok01/Web3-Boilerplate)](https://github.com/Pedrojok01/Web3-Boilerplate/stargazers)
-[![Forks](https://img.shields.io/github/forks/Pedrojok01/Web3-Boilerplate)](https://github.com/Pedrojok01/Web3-Boilerplate/issues)
-[![Issues](https://img.shields.io/github/issues/Pedrojok01/Web3-Boilerplate)](https://github.com/Pedrojok01/Web3-Boilerplate/issues)
-[![MIT License](https://img.shields.io/github/license/Pedrojok01/Web3-Boilerplate)](https://github.com/Pedrojok01/Web3-Boilerplate/blob/main/License)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-e/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3c3b76de-6191-4ab2-b2c6-a5d824f6fe2f/deploy-status)](https://app.netlify.com/sites/web3-boilerplate/deploys)
-
-<br></br>
-
-![Preview](./src/assets/images/preview.gif)
-
-</div>
-
-## Update:
-
-2024-01:
-
-- Upgrade all dependencies (still no switch to `ethers v6`, seems more and more unlikely that `@web3-react` will switch to ethers v6 anytime soon);
-- Fix Antd breaking changes;
-- Replaced `Ethereum goerli` (soon to be deprecated) by `Ethereum Sepolia` & `Arbitrum Goerli` by `Arbitrum Sepolia`;
-- Add `VerifySignature` contracts on Optimism Goerli, Arbitrum Sepolia, Fantom Opera, Fantom Testnet
-
-2023-10:
-
-- Upgrade all package dependencies (except ethers);
-- Improve `useToken` hook to fetch any ERC20 token balance/allowance/decimals/symbol;
-- Fix minor responsive issues;
-
-2023-07:
-
-- Upgrade all package dependencies;
-- Add support for Wallet-Connect v2;
-- Clean code & folders structure;
-- Improve code readability.
-- Add dark mode support
-- Add support for Optimism, Arbitrum, zkSync & Fantom networks
+<h1><strong> Web3 Dapp Template </strong></h1>
 
 ## Table of Contents
 
@@ -54,12 +17,6 @@
 - [Features:](#features)
   - [⭐️ ... and don't forget to leave a star if you like it! ⭐️](#️--and-dont-forget-to-leave-a-star-if-you-like-it-️)
 
-
-## Disclaimer
-
-1. Work in progress...
-2. No Typescript expert and no React expert either, so any contribution/improvement pull request is welcomed!
-3. For a more "recent and high-level" web3 boilerplate built on [Next.js](https://nextjs.org/), [Wagmi](https://wagmi.sh/), [Viem](https://viem.sh/), and [ChakraUI](https://chakra-ui.com/), check out [Next-Web3-Boilerplate ](https://github.com/Pedrojok01/Next-Web3-Boilerplate)
 
 ## Description
 
@@ -135,18 +92,3 @@ yarn start
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[react.js]: https://img.shields.io/badge/React_v18.2-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[react-url]: https://reactjs.org/
-[typescript]: https://img.shields.io/badge/typescript_v5.3.3-375BD2?style=for-the-badge&logo=typescript&logoColor=61DAFB
-[typescript-url]: https://www.typescriptlang.org/
-[web3react]: https://img.shields.io/badge/@web3react_v8.2-006600?style=for-the-badge&logo=web3-react&logoColor=4FC08D
-[web3react-url]: https://github.com/Uniswap/web3react#readme
-[antdesign]: https://img.shields.io/badge/AntDesign_v5.12.5-FF0000?style=for-the-badge&logo=AntDesign&logoColor=61DAFB
-[antdesign-url]: https://ant.design/
-[prettier]: https://img.shields.io/badge/Prettier-360D3A?style=for-the-badge&logo=Prettier&logoColor=61DAFB
-[prettier-url]: https://prettier.io/
-[eslint]: https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=61DAFB
-[eslint-url]: https://eslint.org/
